@@ -6,7 +6,7 @@ This project contains code for training and running an extractive question answe
 
 ```
 @misc{SeoKwiatParikh:2017,
-  title = {Learning Phrase Representations for Question Answering with Nearest Neigbor Search},
+  title = {Question Answering with Maximum Inner Product Search},
   author = {Minjoon Seo and Tom Kwiatkowski and Ankur Parikh},
   url = {...},
 }
